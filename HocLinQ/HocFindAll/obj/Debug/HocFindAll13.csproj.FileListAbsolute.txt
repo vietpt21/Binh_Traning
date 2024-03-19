@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocFindAll\bin\Debug\HocFindAll.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocFindAll\bin\Debug\HocFindAll.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocFindAll\bin\Debug\HocFindAll.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocFindAll\obj\Debug\HocFindAll13.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocFindAll\obj\Debug\HocFindAll.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocFindAll\obj\Debug\HocFindAll.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocFindAll\obj\Debug\HocFindAll13.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocFindAll\obj\Debug\HocFindAll13.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocFindAll\obj\Debug\HocFindAll.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocFindAll\obj\Debug\HocFindAll.pdb

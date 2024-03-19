@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDistionnary\bin\Debug\HocDistionnary.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDistionnary\bin\Debug\HocDistionnary.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDistionnary\bin\Debug\HocDistionnary.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDistionnary\obj\Debug\HocDictionnary23.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDistionnary\obj\Debug\HocDistionnary.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDistionnary\obj\Debug\HocDistionnary.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDistionnary\obj\Debug\HocDictionnary23.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDistionnary\obj\Debug\HocDictionnary23.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDistionnary\obj\Debug\HocDistionnary.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDistionnary\obj\Debug\HocDistionnary.pdb

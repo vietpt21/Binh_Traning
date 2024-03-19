@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocSkip\bin\Debug\HocSkip.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocSkip\bin\Debug\HocSkip.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocSkip\bin\Debug\HocSkip.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocSkip\obj\Debug\HocSkip19.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocSkip\obj\Debug\HocSkip.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocSkip\obj\Debug\HocSkip.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocSkip\obj\Debug\HocSkip19.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocSkip\obj\Debug\HocSkip19.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocSkip\obj\Debug\HocSkip.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocSkip\obj\Debug\HocSkip.pdb

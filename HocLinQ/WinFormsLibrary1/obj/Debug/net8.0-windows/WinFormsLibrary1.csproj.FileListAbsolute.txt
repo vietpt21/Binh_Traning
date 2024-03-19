@@ -1,0 +1,11 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\bin\Debug\net8.0-windows\WinFormsLibrary1.deps.json
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\bin\Debug\net8.0-windows\WinFormsLibrary1.dll
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\bin\Debug\net8.0-windows\WinFormsLibrary1.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.AssemblyInfoInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.AssemblyInfo.cs
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.dll
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\obj\Debug\net8.0-windows\refint\WinFormsLibrary1.dll
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\WinFormsLibrary1\obj\Debug\net8.0-windows\ref\WinFormsLibrary1.dll

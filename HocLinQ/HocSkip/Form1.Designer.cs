@@ -1,0 +1,141 @@
+﻿namespace HocSkip
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.btnNhap = new System.Windows.Forms.Button();
+            this.txtN = new System.Windows.Forms.TextBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.btnNhapSkip = new System.Windows.Forms.Button();
+            this.txtSkip = new System.Windows.Forms.TextBox();
+            this.listBox2 = new System.Windows.Forms.ListBox();
+            this.SuspendLayout();
+            // 
+            // btnNhap
+            // 
+            this.btnNhap.Location = new System.Drawing.Point(223, 62);
+            this.btnNhap.Name = "btnNhap";
+            this.btnNhap.Size = new System.Drawing.Size(75, 23);
+            this.btnNhap.TabIndex = 8;
+            this.btnNhap.Text = "Nhap";
+            this.btnNhap.UseVisualStyleBackColor = true;
+            this.btnNhap.Click += new System.EventHandler(this.btnNhap_Click);
+            // 
+            // txtN
+            // 
+            this.txtN.Location = new System.Drawing.Point(95, 62);
+            this.txtN.Name = "txtN";
+            this.txtN.Size = new System.Drawing.Size(100, 20);
+            this.txtN.TabIndex = 7;
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(37, 112);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(158, 212);
+            this.listBox1.TabIndex = 6;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(37, 62);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(44, 13);
+            this.label1.TabIndex = 9;
+            this.label1.Text = "Nhap N";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(386, 62);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(78, 13);
+            this.label2.TabIndex = 13;
+            this.label2.Text = "Skip N phan tu";
+            // 
+            // btnNhapSkip
+            // 
+            this.btnNhapSkip.Location = new System.Drawing.Point(617, 59);
+            this.btnNhapSkip.Name = "btnNhapSkip";
+            this.btnNhapSkip.Size = new System.Drawing.Size(75, 23);
+            this.btnNhapSkip.TabIndex = 12;
+            this.btnNhapSkip.Text = "Nhap";
+            this.btnNhapSkip.UseVisualStyleBackColor = true;
+            this.btnNhapSkip.Click += new System.EventHandler(this.btnNhapSkip_Click);
+            // 
+            // txtSkip
+            // 
+            this.txtSkip.Location = new System.Drawing.Point(481, 59);
+            this.txtSkip.Name = "txtSkip";
+            this.txtSkip.Size = new System.Drawing.Size(100, 20);
+            this.txtSkip.TabIndex = 11;
+            // 
+            // listBox2
+            // 
+            this.listBox2.FormattingEnabled = true;
+            this.listBox2.Location = new System.Drawing.Point(401, 99);
+            this.listBox2.Name = "listBox2";
+            this.listBox2.Size = new System.Drawing.Size(158, 212);
+            this.listBox2.TabIndex = 10;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.btnNhapSkip);
+            this.Controls.Add(this.txtSkip);
+            this.Controls.Add(this.listBox2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btnNhap);
+            this.Controls.Add(this.txtN);
+            this.Controls.Add(this.listBox1);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+        private System.Windows.Forms.Button btnNhap;
+        private System.Windows.Forms.TextBox txtN;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btnNhapSkip;
+        private System.Windows.Forms.TextBox txtSkip;
+        private System.Windows.Forms.ListBox listBox2;
+    }
+}
+

@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocMIinMax17\bin\Debug\HocMIinMax17.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocMIinMax17\bin\Debug\HocMIinMax17.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocMIinMax17\bin\Debug\HocMIinMax17.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocMIinMax17\obj\Debug\HocMIinMax17.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocMIinMax17\obj\Debug\HocMIinMax17.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocMIinMax17\obj\Debug\HocMIinMax17.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocMIinMax17\obj\Debug\HocMIinMax17.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocMIinMax17\obj\Debug\HocMIinMax17.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocMIinMax17\obj\Debug\HocMIinMax17.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocMIinMax17\obj\Debug\HocMIinMax17.pdb

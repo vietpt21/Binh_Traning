@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocObjectIntialzer\bin\Debug\HocObjectIntialzer.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocObjectIntialzer\bin\Debug\HocObjectIntialzer.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocObjectIntialzer\bin\Debug\HocObjectIntialzer.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocObjectIntialzer\obj\Debug\HocObjectIntialzer.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocObjectIntialzer\obj\Debug\HocObjectIntialzer.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocObjectIntialzer\obj\Debug\HocObjectIntialzer.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocObjectIntialzer\obj\Debug\HocObjectIntialzer.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocObjectIntialzer\obj\Debug\HocObjectIntialzer.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocObjectIntialzer\obj\Debug\HocObjectIntialzer.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocObjectIntialzer\obj\Debug\HocObjectIntialzer.pdb

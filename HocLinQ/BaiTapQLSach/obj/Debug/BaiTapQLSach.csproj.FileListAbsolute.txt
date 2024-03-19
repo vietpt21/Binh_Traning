@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapQLSach\bin\Debug\BaiTapQLSach.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapQLSach\bin\Debug\BaiTapQLSach.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapQLSach\bin\Debug\BaiTapQLSach.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapQLSach\obj\Debug\BaiTapQLSach.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapQLSach\obj\Debug\BaiTapQLSach.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapQLSach\obj\Debug\BaiTapQLSach.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapQLSach\obj\Debug\BaiTapQLSach.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapQLSach\obj\Debug\BaiTapQLSach.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapQLSach\obj\Debug\BaiTapQLSach.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapQLSach\obj\Debug\BaiTapQLSach.pdb

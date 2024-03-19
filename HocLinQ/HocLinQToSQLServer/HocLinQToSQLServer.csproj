@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{694AF55C-EDCD-431E-9405-1C34B79214D7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HocLinQToSQLServer</RootNamespace>
+    <AssemblyName>HocLinQToSQLServer</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CapNhatDanhMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapNhatDanhMuc.Designer.cs">
+      <DependentUpon>CapNhatDanhMuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CapNhatSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapNhatSanPham.Designer.cs">
+      <DependentUpon>CapNhatSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MethobSyntaxChitietDm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MethobSyntaxChitietDm.Designer.cs">
+      <DependentUpon>MethobSyntaxChitietDm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MethobsyntaxLayDanhSachSp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MethobsyntaxLayDanhSachSp.Designer.cs">
+      <DependentUpon>MethobsyntaxLayDanhSachSp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MethobSyntaxTRuyVanSpTheoTenDm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MethobSyntaxTRuyVanSpTheoTenDm.Designer.cs">
+      <DependentUpon>MethobSyntaxTRuyVanSpTheoTenDm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuerrySyntaxLayDanhSachSp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuerrySyntaxLayDanhSachSp.Designer.cs">
+      <DependentUpon>QuerrySyntaxLayDanhSachSp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuerysyntaxTruyVanTheoTenDM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuerysyntaxTruyVanTheoTenDM.Designer.cs">
+      <DependentUpon>QuerysyntaxTruyVanTheoTenDM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestDB.designer.cs">
+      <DependentUpon>TestDB.dbml</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="ThemDanhMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemDanhMuc.Designer.cs">
+      <DependentUpon>ThemDanhMuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemNhieuSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemNhieuSanPham.Designer.cs">
+      <DependentUpon>ThemNhieuSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThemSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThemSanPham.Designer.cs">
+      <DependentUpon>ThemSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimSpTheoDonGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimSpTheoDonGia.Designer.cs">
+      <DependentUpon>TimSpTheoDonGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimSpTheoMa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimSpTheoMa.Designer.cs">
+      <DependentUpon>TimSpTheoMa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XemChiTietDanhMucFlowlayoutPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XemChiTietDanhMucFlowlayoutPanel.Designer.cs">
+      <DependentUpon>XemChiTietDanhMucFlowlayoutPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XoaDanhMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XoaDanhMuc.Designer.cs">
+      <DependentUpon>XoaDanhMuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XoaSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XoaSanPham.Designer.cs">
+      <DependentUpon>XoaSanPham.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CapNhatDanhMuc.resx">
+      <DependentUpon>CapNhatDanhMuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapNhatSanPham.resx">
+      <DependentUpon>CapNhatSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MethobSyntaxChitietDm.resx">
+      <DependentUpon>MethobSyntaxChitietDm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MethobsyntaxLayDanhSachSp.resx">
+      <DependentUpon>MethobsyntaxLayDanhSachSp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MethobSyntaxTRuyVanSpTheoTenDm.resx">
+      <DependentUpon>MethobSyntaxTRuyVanSpTheoTenDm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QuerrySyntaxLayDanhSachSp.resx">
+      <DependentUpon>QuerrySyntaxLayDanhSachSp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuerysyntaxTruyVanTheoTenDM.resx">
+      <DependentUpon>QuerysyntaxTruyVanTheoTenDM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemDanhMuc.resx">
+      <DependentUpon>ThemDanhMuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemNhieuSanPham.resx">
+      <DependentUpon>ThemNhieuSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThemSanPham.resx">
+      <DependentUpon>ThemSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimSpTheoDonGia.resx">
+      <DependentUpon>TimSpTheoDonGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimSpTheoMa.resx">
+      <DependentUpon>TimSpTheoMa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XemChiTietDanhMucFlowlayoutPanel.resx">
+      <DependentUpon>XemChiTietDanhMucFlowlayoutPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XoaDanhMuc.resx">
+      <DependentUpon>XoaDanhMuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XoaSanPham.resx">
+      <DependentUpon>XoaSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TestDB.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>TestDB.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TestDB.dbml.layout">
+      <DependentUpon>TestDB.dbml</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

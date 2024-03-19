@@ -1,0 +1,9 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLinQ\bin\Release\HocLinQ.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLinQ\bin\Release\HocLinQ.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLinQ\bin\Release\HocLinQ.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLinQ\obj\Release\HocLinQ.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLinQ\obj\Release\HocLinQ.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLinQ\obj\Release\HocLinQ.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLinQ\obj\Release\HocLinQ.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLinQ\obj\Release\HocLinQ.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLinQ\obj\Release\HocLinQ.pdb

@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD5C59C-C98E-49D7-A03C-2E7B8C06B3F9}|BaiTapQLSach\\BaiTapQLSach.csproj|c:\\users\\vietpt\\desktop\\studydotnet\\hoclinq\\baitapqlsach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD5C59C-C98E-49D7-A03C-2E7B8C06B3F9}|BaiTapQLSach\\BaiTapQLSach.csproj|solutionrelative:baitapqlsach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD5C59C-C98E-49D7-A03C-2E7B8C06B3F9}|BaiTapQLSach\\BaiTapQLSach.csproj|c:\\users\\vietpt\\desktop\\studydotnet\\hoclinq\\baitapqlsach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDD5C59C-C98E-49D7-A03C-2E7B8C06B3F9}|BaiTapQLSach\\BaiTapQLSach.csproj|solutionrelative:baitapqlsach\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8B04A-ADE5-499B-B349-39BE7D098549}|BaiTapTongHopQLSP\\BaiTapTongHopQLSP.csproj|c:\\users\\vietpt\\desktop\\studydotnet\\hoclinq\\baitaptonghopqlsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A8B04A-ADE5-499B-B349-39BE7D098549}|BaiTapTongHopQLSP\\BaiTapTongHopQLSP.csproj|solutionrelative:baitaptonghopqlsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A8B04A-ADE5-499B-B349-39BE7D098549}|BaiTapTongHopQLSP\\BaiTapTongHopQLSP.csproj|c:\\users\\vietpt\\desktop\\studydotnet\\hoclinq\\baitaptonghopqlsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48A8B04A-ADE5-499B-B349-39BE7D098549}|BaiTapTongHopQLSP\\BaiTapTongHopQLSP.csproj|solutionrelative:baitaptonghopqlsp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD5C59C-C98E-49D7-A03C-2E7B8C06B3F9}|BaiTapQLSach\\BaiTapQLSach.csproj|c:\\users\\vietpt\\desktop\\studydotnet\\hoclinq\\baitapqlsach\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD5C59C-C98E-49D7-A03C-2E7B8C06B3F9}|BaiTapQLSach\\BaiTapQLSach.csproj|solutionrelative:baitapqlsach\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\BaiTapQLSach\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTapQLSach\\Form1.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\BaiTapQLSach\\Form1.cs",
+              "RelativeToolTip": "BaiTapQLSach\\Form1.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAswHwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:44:21.542Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\BaiTapTongHopQLSP\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTapTongHopQLSP\\Form1.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\BaiTapTongHopQLSP\\Form1.cs",
+              "RelativeToolTip": "BaiTapTongHopQLSP\\Form1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAUwHEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:45:02.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\BaiTapTongHopQLSP\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTapTongHopQLSP\\Form1.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\BaiTapTongHopQLSP\\Form1.cs [Design]",
+              "RelativeToolTip": "BaiTapTongHopQLSP\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:44:59.977Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\BaiTapQLSach\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapQLSach\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\BaiTapQLSach\\Form1.Designer.cs",
+              "RelativeToolTip": "BaiTapQLSach\\Form1.Designer.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAADwv/cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:14:12.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\BaiTapQLSach\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTapQLSach\\Form1.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\StudyDotnet\\HocLinQ\\BaiTapQLSach\\Form1.cs [Design]",
+              "RelativeToolTip": "BaiTapQLSach\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:13:07.503Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

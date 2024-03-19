@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapTongHopQLSP\bin\Debug\BaiTapTongHopQLSP.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapTongHopQLSP\bin\Debug\BaiTapTongHopQLSP.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapTongHopQLSP\bin\Debug\BaiTapTongHopQLSP.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapTongHopQLSP\obj\Debug\BaiTapTongHopQLSP.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapTongHopQLSP\obj\Debug\BaiTapTongHopQLSP.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapTongHopQLSP\obj\Debug\BaiTapTongHopQLSP.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapTongHopQLSP\obj\Debug\BaiTapTongHopQLSP.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapTongHopQLSP\obj\Debug\BaiTapTongHopQLSP.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapTongHopQLSP\obj\Debug\BaiTapTongHopQLSP.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\BaiTapTongHopQLSP\obj\Debug\BaiTapTongHopQLSP.pdb

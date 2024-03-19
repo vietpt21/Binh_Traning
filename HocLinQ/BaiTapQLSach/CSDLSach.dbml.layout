@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CSDLSach">
+  <DataContextMoniker Name="/CSDLSachDataContext" />
+  <nestedChildShapes>
+    <classShape Id="654ec351-80a8-43ed-b0bf-932b1d541f1f" absoluteBounds="2.125, 1.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/CSDLSachDataContext/Book" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b4541f81-25cb-4921-9bf1-a309e69c7612" absoluteBounds="2.14, 1.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b8860e1c-d3d6-47f5-8ba2-d471da7491d2" absoluteBounds="5.25, 1.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/CSDLSachDataContext/Pulisher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1e525d59-5b83-4c90-983c-6871879d0626" absoluteBounds="5.265, 1.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.25 : 2.26044840494792); (4.125 : 2.26044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/CSDLSachDataContext/Pulisher/Pulisher_Book" />
+      <nodes>
+        <classShapeMoniker Id="b8860e1c-d3d6-47f5-8ba2-d471da7491d2" />
+        <classShapeMoniker Id="654ec351-80a8-43ed-b0bf-932b1d541f1f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

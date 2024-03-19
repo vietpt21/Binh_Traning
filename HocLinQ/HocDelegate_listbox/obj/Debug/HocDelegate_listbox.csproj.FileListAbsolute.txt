@@ -1,0 +1,11 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\bin\Debug\HocDelegate_listbox.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\bin\Debug\HocDelegate_listbox.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\bin\Debug\HocDelegate_listbox.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\obj\Debug\HocDelegate_listbox.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\obj\Debug\HocDelegate_listbox.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\obj\Debug\HocDelegate_listbox.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\obj\Debug\HocDelegate_listbox.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\obj\Debug\HocDelegate_listbox.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\obj\Debug\HocDelegate_listbox.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\obj\Debug\HocDelegate_listbox.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocDelegate_listbox\obj\Debug\HocDelegate_listbox.Form2.resources

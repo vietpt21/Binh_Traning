@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocExtentionMethod\bin\Debug\HocExtentionMethod.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocExtentionMethod\bin\Debug\HocExtentionMethod.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocExtentionMethod\bin\Debug\HocExtentionMethod.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocExtentionMethod\obj\Debug\HocExtentionMethod.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocExtentionMethod\obj\Debug\HocExtentionMethod.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocExtentionMethod\obj\Debug\HocExtentionMethod.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocExtentionMethod\obj\Debug\HocExtentionMethod.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocExtentionMethod\obj\Debug\HocExtentionMethod.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocExtentionMethod\obj\Debug\HocExtentionMethod.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocExtentionMethod\obj\Debug\HocExtentionMethod.pdb

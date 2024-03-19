@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocTrueForAll\bin\Debug\HocTrueForAll.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocTrueForAll\bin\Debug\HocTrueForAll.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocTrueForAll\bin\Debug\HocTrueForAll.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocTrueForAll\obj\Debug\HocTrueForAll.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocTrueForAll\obj\Debug\HocTrueForAll.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocTrueForAll\obj\Debug\HocTrueForAll.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocTrueForAll\obj\Debug\HocTrueForAll.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocTrueForAll\obj\Debug\HocTrueForAll.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocTrueForAll\obj\Debug\HocTrueForAll.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocTrueForAll\obj\Debug\HocTrueForAll.pdb

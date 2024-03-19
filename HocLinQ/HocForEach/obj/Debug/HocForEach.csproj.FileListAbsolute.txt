@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocForEach\bin\Debug\HocForEach.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocForEach\bin\Debug\HocForEach.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocForEach\bin\Debug\HocForEach.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocForEach\obj\Debug\HocForEach.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocForEach\obj\Debug\HocForEach.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocForEach\obj\Debug\HocForEach.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocForEach\obj\Debug\HocForEach.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocForEach\obj\Debug\HocForEach.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocForEach\obj\Debug\HocForEach.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocForEach\obj\Debug\HocForEach.pdb

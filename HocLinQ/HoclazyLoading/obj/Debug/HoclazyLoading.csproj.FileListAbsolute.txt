@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HoclazyLoading\bin\Debug\HoclazyLoading.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HoclazyLoading\bin\Debug\HoclazyLoading.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HoclazyLoading\bin\Debug\HoclazyLoading.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HoclazyLoading\obj\Debug\HoclazyLoading.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HoclazyLoading\obj\Debug\HoclazyLoading.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HoclazyLoading\obj\Debug\HoclazyLoading.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HoclazyLoading\obj\Debug\HoclazyLoading.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HoclazyLoading\obj\Debug\HoclazyLoading.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HoclazyLoading\obj\Debug\HoclazyLoading.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HoclazyLoading\obj\Debug\HoclazyLoading.pdb

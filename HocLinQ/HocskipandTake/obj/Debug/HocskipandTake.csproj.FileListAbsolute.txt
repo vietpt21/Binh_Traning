@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocskipandTake\bin\Debug\HocskipandTake.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocskipandTake\bin\Debug\HocskipandTake.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocskipandTake\bin\Debug\HocskipandTake.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocskipandTake\obj\Debug\HocskipandTake.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocskipandTake\obj\Debug\HocskipandTake.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocskipandTake\obj\Debug\HocskipandTake.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocskipandTake\obj\Debug\HocskipandTake.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocskipandTake\obj\Debug\HocskipandTake.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocskipandTake\obj\Debug\HocskipandTake.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocskipandTake\obj\Debug\HocskipandTake.pdb

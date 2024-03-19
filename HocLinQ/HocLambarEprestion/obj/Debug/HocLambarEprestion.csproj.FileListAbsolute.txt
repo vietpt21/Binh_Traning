@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLambarEprestion\bin\Debug\HocLambarEprestion.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLambarEprestion\bin\Debug\HocLambarEprestion.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLambarEprestion\bin\Debug\HocLambarEprestion.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLambarEprestion\obj\Debug\HocLambarEprestion.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLambarEprestion\obj\Debug\HocLambarEprestion.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLambarEprestion\obj\Debug\HocLambarEprestion.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLambarEprestion\obj\Debug\HocLambarEprestion.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLambarEprestion\obj\Debug\HocLambarEprestion.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLambarEprestion\obj\Debug\HocLambarEprestion.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocLambarEprestion\obj\Debug\HocLambarEprestion.pdb

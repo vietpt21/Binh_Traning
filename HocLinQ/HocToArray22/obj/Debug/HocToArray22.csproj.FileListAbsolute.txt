@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocToArray22\bin\Debug\HocToArray22.exe.config
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocToArray22\bin\Debug\HocToArray22.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocToArray22\bin\Debug\HocToArray22.pdb
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocToArray22\obj\Debug\HocToArray22.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocToArray22\obj\Debug\HocToArray22.Form1.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocToArray22\obj\Debug\HocToArray22.Properties.Resources.resources
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocToArray22\obj\Debug\HocToArray22.csproj.GenerateResource.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocToArray22\obj\Debug\HocToArray22.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocToArray22\obj\Debug\HocToArray22.exe
+C:\Users\VIETPT\Desktop\StudyDotnet\HocLinQ\HocToArray22\obj\Debug\HocToArray22.pdb
