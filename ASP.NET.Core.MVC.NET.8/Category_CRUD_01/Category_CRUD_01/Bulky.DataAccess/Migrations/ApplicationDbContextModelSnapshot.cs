@@ -61,6 +61,153 @@ namespace BulkyBook.DataAcess.Migrations
                             Name = "Hostory"
                         });
                 });
+
+            modelBuilder.Entity("BulkyBook.Models.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Author")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ISBN")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("ListPrice")
+                        .HasColumnType("float");
+
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
+
+                    b.Property<double>("Price100")
+                        .HasColumnType("float");
+
+                    b.Property<double>("Price50")
+                        .HasColumnType("float");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CategoryId");
+
+                    b.ToTable("products");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Author = "Viet",
+                            CategoryId = 1,
+                            Description = "Nuoc ngot",
+                            ISBN = "jsjsjsjfnfee",
+                            ImageUrl = "",
+                            ListPrice = 99.0,
+                            Price = 90.0,
+                            Price100 = 80.0,
+                            Price50 = 85.0,
+                            Title = "Cocacola"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Author = "Nam",
+                            CategoryId = 1,
+                            Description = "nuoc uong",
+                            ISBN = "jsjsjsjfnfee",
+                            ImageUrl = "",
+                            ListPrice = 40.0,
+                            Price = 20.0,
+                            Price100 = 35.0,
+                            Price50 = 30.0,
+                            Title = "pessi"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Author = "Viet",
+                            CategoryId = 1,
+                            Description = "jjseeejs",
+                            ISBN = "eess",
+                            ImageUrl = "",
+                            ListPrice = 99.0,
+                            Price = 90.0,
+                            Price100 = 80.0,
+                            Price50 = 85.0,
+                            Title = "Mi"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Author = "Viet",
+                            CategoryId = 2,
+                            Description = "fffff",
+                            ISBN = "dddff",
+                            ImageUrl = "",
+                            ListPrice = 80.0,
+                            Price = 60.0,
+                            Price100 = 10.0,
+                            Price50 = 50.0,
+                            Title = "Banh"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Author = "Hanh",
+                            CategoryId = 2,
+                            Description = "ssss",
+                            ISBN = "ffff",
+                            ImageUrl = "",
+                            ListPrice = 99.0,
+                            Price = 90.0,
+                            Price100 = 80.0,
+                            Price50 = 85.0,
+                            Title = "Ao"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Author = "Chan",
+                            CategoryId = 3,
+                            Description = "rrrs",
+                            ISBN = "wwww",
+                            ImageUrl = "",
+                            ListPrice = 99.0,
+                            Price = 90.0,
+                            Price100 = 80.0,
+                            Price50 = 85.0,
+                            Title = "Quan"
+                        });
+                });
+
+            modelBuilder.Entity("BulkyBook.Models.Product", b =>
+                {
+                    b.HasOne("BulkyBook.Models.Category", "category")
+                        .WithMany()
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("category");
+                });
 #pragma warning restore 612, 618
         }
     }

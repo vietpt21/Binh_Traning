@@ -257,3 +257,6 @@ C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Cat
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Category_CRUD_01\obj\Debug\net8.0\BulkyBookWeb.pdb
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Category_CRUD_01\obj\Debug\net8.0\BulkyBookWeb.genruntimeconfig.cache
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Category_CRUD_01\obj\Debug\net8.0\ref\BulkyBookWeb.dll
+C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Category_CRUD_01\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Category_CRUD_01\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Category_CRUD_01\obj\Debug\net8.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs

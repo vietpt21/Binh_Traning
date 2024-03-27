@@ -1,0 +1,94 @@
+﻿@model BulkyBook.Models.ViewModels.ProductVM
+
+<div class="row pb-2">
+	<div class="col-12 pb-2">
+		<h2 class="text-primary text-center">@(Model.product.Id != 0 ? "Update Product" : "Create Product")  Product</h2>
+		<hr />
+	</div>
+</div>
+<form method="post" enctype="multipart/form-data">
+	<div class="border p-3 mt-4" >
+	
+		@* <div asp-validation-summary="All"></div> *@
+		<input asp-for="product.Id" hidden />
+		<div class="mb-3">
+			<label asp-for="product.Title"></label>
+			<input asp-for="product.Title" class="form-control" />
+			<span asp-validation-for="product.Title" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="product.Description"></label>
+			<textarea asp-for="product.Description" class="form-control" ></textarea>	
+		</div>
+		<div class="mb-3">
+			<label asp-for="product.ISBN"></label>
+			<input asp-for="product.ISBN" class="form-control" />
+			<span asp-validation-for="product.ISBN" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="product.Author"></label>
+			<input asp-for="product.Author" class="form-control" />
+			<span asp-validation-for="product.Author" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="product.ListPrice"></label>
+			<input asp-for="product.ListPrice" class="form-control" />
+			<span asp-validation-for="product.ListPrice" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="product.Price"></label>
+			<input asp-for="product.Price" class="form-control" />
+			<span asp-validation-for="product.Price" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="product.Price50"></label>
+			<input asp-for="product.Price50" class="form-control" />
+			<span asp-validation-for="product.Price50" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="product.Price100"></label>
+			<input asp-for="product.Price100" class="form-control" />
+			<span asp-validation-for="product.Price100" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="product.ImageUrl"></label>
+			<input type="file" name="file" class="form-control" />
+			<span asp-validation-for="product.ImageUrl" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="product.CategoryId"></label>
+			<select asp-for="@Model.product.CategoryId" asp-items=@Model.CategoryList class="form-control">
+				@* @(ViewData["CategoryList"] as IEnumerable<SelectListItem>) *@
+				<option disabled selected>Select Category</option>
+			</select>
+			<span asp-validation-for="product.CategoryId" class="text-danger"></span>
+		</div>
+		@if(Model.product.Id!=0)
+		{
+			<button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+		}
+		else
+		{
+		<button type="submit" class="btn btn-primary" style="width:150px">Create</button>
+		}
+		<a asp-controller="Product" asp-action="Index" class="btn btn-secondary" style="width:150px">
+			Back to List
+		</a>
+	</div>
+</form>
+@section Scripts{
+	<script>
+		tinymce.init({
+			selector: 'textarea',
+			plugins: 'advlist autolink lists link image charmap print preview hr anchor pagebreak',
+			toolbar_mode:'undo redo'|'blocks fontfamily font size'|'floating',
+		});
+
+		
+	</script>
+}
+	@{
+		<partial name="_ValidationScriptsPartial"/>
+	}
+}
+

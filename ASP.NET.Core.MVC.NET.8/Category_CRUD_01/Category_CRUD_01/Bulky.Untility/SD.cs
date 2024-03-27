@@ -8,5 +8,6 @@ namespace BulkyBook.Untility
 {
     public static class SD
     {
+
     }
 }
