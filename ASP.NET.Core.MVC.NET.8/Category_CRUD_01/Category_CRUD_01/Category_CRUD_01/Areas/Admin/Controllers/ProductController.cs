@@ -88,13 +88,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
                 TempData["success"] = " create product successfully";
                 return RedirectToAction("Index");
             }
-            else
-                productVM.CategoryList = _unitOfWork.Category
-               .GetAll().Select(u => new SelectListItem
-               {
-                   Text = u.Name,
-                   Value = u.CategoryId.ToString()
-               });
+          
             return View(productVM);
         }
       

@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\category_crud_01\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|solutionrelative:category_crud_01\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|solutionrelative:category_crud_01\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|solutionrelative:category_crud_01\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\category_crud_01\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|solutionrelative:category_crud_01\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|solutionrelative:category_crud_01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|solutionrelative:category_crud_01\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\category_crud_01\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|solutionrelative:category_crud_01\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\category_crud_01\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|solutionrelative:category_crud_01\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB99D54A-0F4A-452B-A345-740C2E27839E}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\bulky.dataaccess\\repository\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB99D54A-0F4A-452B-A345-740C2E27839E}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repositoryproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB99D54A-0F4A-452B-A345-740C2E27839E}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB99D54A-0F4A-452B-A345-740C2E27839E}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\category_crud_01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\Category_CRUD_01.csproj|solutionrelative:category_crud_01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "Category_CRUD_01\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "Category_CRUD_01\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T03:56:00.9Z",
+              "DocumentIndex": 1,
+              "Title": "product.js",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\js\\product.js",
+              "RelativeDocumentMoniker": "Category_CRUD_01\\wwwroot\\js\\product.js",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\js\\product.js",
+              "RelativeToolTip": "Category_CRUD_01\\wwwroot\\js\\product.js",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-01T07:00:53.322Z",
               "EditorCaption": ""
             },
             {
@@ -55,12 +71,63 @@
               "RelativeToolTip": "Category_CRUD_01\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T03:19:50.464Z",
+              "WhenOpened": "2024-04-01T06:56:35.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:54:29.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryProduct.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.DataAccess\\Repository\\RepositoryProduct.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\RepositoryProduct.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.DataAccess\\Repository\\RepositoryProduct.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\RepositoryProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T06:54:22.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "Category_CRUD_01\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "Category_CRUD_01\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T03:56:00.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Category_CRUD_01\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Category_CRUD_01\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T03:19:50.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Category_CRUD_01\\Views\\Shared\\_Layout.cshtml",
@@ -68,12 +135,11 @@
               "RelativeToolTip": "Category_CRUD_01\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T03:04:30.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T03:04:30.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "product.js",
               "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\js\\product.js",
               "RelativeDocumentMoniker": "Category_CRUD_01\\wwwroot\\js\\product.js",
@@ -81,8 +147,7 @@
               "RelativeToolTip": "Category_CRUD_01\\wwwroot\\js\\product.js",
               "ViewState": "AQIAACAAAAAAAAAAAAAwwBkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-01T01:10:43.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T01:10:43.507Z"
             },
             {
               "$type": "Document",
@@ -92,7 +157,7 @@
               "RelativeDocumentMoniker": "Category_CRUD_01\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Category_CRUD_01\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAEwHQAAAA0AAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwDoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T00:48:24.838Z",
               "EditorCaption": ""
