@@ -13,8 +13,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\images\\product\\3e2e891d-e0bc-4fb2-b872-ea6816ff10cd.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\3e2e891d-e0bc-4fb2-b872-ea6816ff10cd.jpg"
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\images\\product\\17e9aa76-bf0b-4d09-96ee-a8f63bae33e5.png",
+      "PackagePath": "staticwebassets\\images\\product\\17e9aa76-bf0b-4d09-96ee-a8f63bae33e5.png"
+    },
+    {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\images\\product\\82cfa9b2-0cc9-4e84-807b-e8455aa8faca.png",
+      "PackagePath": "staticwebassets\\images\\product\\82cfa9b2-0cc9-4e84-807b-e8455aa8faca.png"
+    },
+    {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\images\\product\\88c0a8e3-f007-47ca-8d52-4749289bc282.png",
+      "PackagePath": "staticwebassets\\images\\product\\88c0a8e3-f007-47ca-8d52-4749289bc282.png"
+    },
+    {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\images\\product\\b0195b8c-bca4-4d43-bb3c-79759a07632f.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b0195b8c-bca4-4d43-bb3c-79759a07632f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\images\\product\\c02ad5c1-d6ef-4cb5-a0c3-912164a1ae4d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c02ad5c1-d6ef-4cb5-a0c3-912164a1ae4d.jpg"
     },
     {
       "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\js\\product.js",

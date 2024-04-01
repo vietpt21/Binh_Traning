@@ -24,10 +24,11 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
          
             return View(products);
         }
-        public IActionResult Upsert(int? ProductId)
+        public IActionResult Upsert(int? id)
         {
             ProductVM productVm = new()
             {
+                
                 CategoryList = _unitOfWork.Category
                 .GetAll().Select(u => new SelectListItem
                 {
@@ -36,13 +37,13 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
                 }),
                 product = new Product()
             };
-            if(ProductId == null || ProductId == 0)
+            if(id == null || id == 0)
             {
                 return View(productVm);
             }
             else
             {
-                productVm.product = _unitOfWork.Product.Get(u => u.Id == ProductId);
+                productVm.product = _unitOfWork.Product.Get(u => u.Id == id);
                 return View(productVm);
             }
         }
@@ -55,7 +56,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
 		       /*	C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot*/
 				string wwwroot = _webHostEnvironment.WebRootPath.ToString();
                 
-                if (wwwroot != null )
+                if (file != null )
                 {
                     string filename = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
                     //duong dan luu tru image cua project
