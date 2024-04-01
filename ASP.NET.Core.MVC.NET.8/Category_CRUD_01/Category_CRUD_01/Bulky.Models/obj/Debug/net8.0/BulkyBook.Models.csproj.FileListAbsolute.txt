@@ -1,6 +1,7 @@
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.dll
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.AssemblyReference.cache
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
@@ -10,4 +11,3 @@ C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Cat
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
-C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.AssemblyReference.cache

@@ -5,11 +5,11 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBookWeb", "Category_CRUD_01\BulkyBookWeb.csproj", "{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.DataAccess", "Bulky.DataAccess\BulkyBook.DataAccess.csproj", "{FB99D54A-0F4A-452B-A345-740C2E27839E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBook.DataAccess", "Bulky.DataAccess\BulkyBook.DataAccess.csproj", "{FB99D54A-0F4A-452B-A345-740C2E27839E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.Models", "Bulky.Models\BulkyBook.Models.csproj", "{6DB5C278-3515-4B5B-A2FF-9ACB1B0FA1DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBook.Models", "Bulky.Models\BulkyBook.Models.csproj", "{6DB5C278-3515-4B5B-A2FF-9ACB1B0FA1DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.Untility", "Bulky.Untility\BulkyBook.Untility.csproj", "{A97EF3F9-928C-4F27-91DE-B0C8263B2756}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BulkyBook.Untility", "Bulky.Untility\BulkyBook.Untility.csproj", "{A97EF3F9-928C-4F27-91DE-B0C8263B2756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
