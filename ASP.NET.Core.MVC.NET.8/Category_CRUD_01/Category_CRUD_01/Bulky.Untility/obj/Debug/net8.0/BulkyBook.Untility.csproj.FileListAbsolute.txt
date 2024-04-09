@@ -1,6 +1,7 @@
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Untility\bin\Debug\net8.0\BulkyBook.Untility.deps.json
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Untility\bin\Debug\net8.0\BulkyBook.Untility.dll
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Untility\bin\Debug\net8.0\BulkyBook.Untility.pdb
+C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Untility\obj\Debug\net8.0\BulkyBook.Untility.csproj.AssemblyReference.cache
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Untility\obj\Debug\net8.0\BulkyBook.Untility.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Untility\obj\Debug\net8.0\BulkyBook.Untility.AssemblyInfoInputs.cache
 C:\Users\VIETPT\Desktop\Binh_Traning\ASP.NET.Core.MVC.NET.8\Category_CRUD_01\Category_CRUD_01\Bulky.Untility\obj\Debug\net8.0\BulkyBook.Untility.AssemblyInfo.cs

@@ -2,18 +2,21 @@
 using BulkyBook.DataAcess.Data;
 using BulkyBook.Models;
 using BulkyBook.Models.ViewModels;
+using BulkyBook.Untility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BulkyBookWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public ProductController(IUnitOfWork unitOfWork,IWebHostEnvironment webHostEnvironment)
+        public ProductController(IUnitOfWork unitOfWork, IWebHostEnvironment webHostEnvironment)
         {
             _unitOfWork = unitOfWork;
             _webHostEnvironment = webHostEnvironment;
@@ -24,6 +27,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
          
             return View(products);
         }
+   
         public IActionResult Upsert(int? id)
         {
             ProductVM productVm = new()
@@ -79,6 +83,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
                 if (productVM.product.Id ==0)
                 {
                     _unitOfWork.Product.Add(productVM.product);
+                    
                 }
                 else
                 {
@@ -97,7 +102,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            List<Product> products = _unitOfWork.Product.GetAll(includeProperties: "category").ToList();
+            List<Product> products = _unitOfWork.Product.GetAll().ToList();
             return Json(new {data= products});
         }
         [HttpDelete]

@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "6wgx3eJabkuT+4wxY40R8NpOf2k3Wu7+cp9PzNKwQ78+hlZ1KOOPHKCsmT+h6zkp+8eZ73OeehKL+TbcJIqEtg==",
+  "dgSpecHash": "kjwS4gdlQYLiGxXOkcPw8Vj/4N2H9B4V7GCstrzpUoekveOFCtptU/t1AitaXsuo1N2dU8WGy+ODA9yWHOMD3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.Untility\\BulkyBook.Untility.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.3\\microsoft.aspnetcore.cryptography.internal.8.0.3.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.3\\microsoft.aspnetcore.cryptography.keyderivation.8.0.3.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.3\\microsoft.aspnetcore.identity.ui.8.0.3.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\8.0.3\\microsoft.extensions.fileproviders.embedded.8.0.3.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.3\\microsoft.extensions.identity.core.8.0.3.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.3\\microsoft.extensions.identity.stores.8.0.3.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
