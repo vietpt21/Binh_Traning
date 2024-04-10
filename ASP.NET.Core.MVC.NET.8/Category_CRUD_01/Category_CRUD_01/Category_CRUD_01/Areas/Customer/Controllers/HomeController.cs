@@ -1,6 +1,7 @@
 using BulkyBook.DataAccess.Repository;
 using BulkyBook.DataAccess.Repository.IRepository;
 using BulkyBook.Models;
+using BulkyBook.Untility;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -50,12 +51,17 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
             {
                 cartFormDb.Count += shoppingCart.Count;
                 _unitOfWork.ShoppingCart.Update(cartFormDb);
+                _unitOfWork.Save();
+               
             }
             else
             {
                 _unitOfWork.ShoppingCart.Add(shoppingCart);
+                _unitOfWork.Save();
+                HttpContext.Session.SetInt32(SD.SessionCart,
+               _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == userId).ToList().Count);
             }
-            _unitOfWork.Save();
+           
             return RedirectToAction(nameof(Index));
         }
 

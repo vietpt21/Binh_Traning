@@ -15,7 +15,7 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
     public class CartController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
-		[BindProperty]//tu dong lay du lieu tu acction get 
+		[BindProperty]//tu dong lay du lieu tu action get 
         public ShopppingCartVM ShopppingCartVM { get; set; }
         public CartController(IUnitOfWork unitOfWork)
         {
@@ -157,8 +157,8 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
 		}
 
        
-            public IActionResult OrderConfirmation(int id)
-	     	{
+        public IActionResult OrderConfirmation(int id)
+	    {
 			OrderHeader orderHeader = _unitOfWork.OrderHeader.Get(x => x.Id == id, includeProperties: "ApplicationUser");
 			if(orderHeader.PaymentStatus != SD.PaymentStatusDelayedPayment)
 			{//customer
@@ -179,7 +179,7 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
 		}
 		public IActionResult Plus(int cartId)
 		{
-            var cartFormDb = _unitOfWork.ShoppingCart.Get(x => x.Id == cartId);
+            var cartFormDb = _unitOfWork.ShoppingCart.Get(x => x.Id == cartId,tracked:true);
             cartFormDb.Count += 1;
             _unitOfWork.ShoppingCart.Update(cartFormDb);
             _unitOfWork.Save();
@@ -187,12 +187,15 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
 		}
         public IActionResult Minus(int cartId)
         {
-            var cartFormDb = _unitOfWork.ShoppingCart.Get(x => x.Id == cartId);
-          
+            var cartFormDb = _unitOfWork.ShoppingCart.Get(x => x.Id == cartId,tracked:true);
+
             if (cartFormDb.Count <= 1)
             {
 				_unitOfWork.ShoppingCart.Remove(cartFormDb);
-			}
+				_unitOfWork.Save();
+                HttpContext.Session.SetInt32(SD.SessionCart,
+                _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == cartFormDb.ApplicationUserId).ToList().Count);
+            }
             else
             {
 				cartFormDb.Count -= 1;
@@ -205,8 +208,10 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
 		{
 			var cartFormDb = _unitOfWork.ShoppingCart.Get(x => x.Id == cartId);
 			_unitOfWork.ShoppingCart.Remove(cartFormDb);
-			_unitOfWork.Save();
-
+            HttpContext.Session.SetInt32(SD.SessionCart,
+            _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == cartFormDb.ApplicationUserId).ToList().Count - 1);
+            _unitOfWork.Save();
+            
             return RedirectToAction(nameof(Index));
 		}
 
