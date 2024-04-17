@@ -23,16 +23,16 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
         }
         public IActionResult Index()
         {
-            List<Product> products = _unitOfWork.Product.GetAll(includeProperties :"category").ToList();
-         
+            List<Product> products = _unitOfWork.Product.GetAll(includeProperties: "category").ToList();
+
             return View(products);
         }
-   
+
         public IActionResult Upsert(int? id)
         {
             ProductVM productVm = new()
             {
-                
+
                 CategoryList = _unitOfWork.Category
                 .GetAll().Select(u => new SelectListItem
                 {
@@ -41,7 +41,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
                 }),
                 product = new Product()
             };
-            if(id == null || id == 0)
+            if (id == null || id == 0)
             {
                 return View(productVm);
             }
@@ -56,11 +56,11 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
         {
             if (ModelState.IsValid)
             {
-             
-		       /*	C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot*/
-				string wwwroot = _webHostEnvironment.WebRootPath.ToString();
-                
-                if (file != null )
+
+                /*	C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot*/
+                string wwwroot = _webHostEnvironment.WebRootPath.ToString();
+
+                if (file != null)
                 {
                     string filename = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
                     //duong dan luu tru image cua project
@@ -73,43 +73,43 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
                             System.IO.File.Delete(oldImagePart);
                         }
                     }
-                    using (var fileStream = new FileStream(Path.Combine(productPart,filename) ,FileMode.Create))
+                    using (var fileStream = new FileStream(Path.Combine(productPart, filename), FileMode.Create))
                     {
                         file.CopyTo(fileStream);
                     }
                     productVM.product.ImageUrl = @"\images\product\" + filename;
-				}
-             
-                if (productVM.product.Id ==0)
+                }
+
+                if (productVM.product.Id == 0)
                 {
                     _unitOfWork.Product.Add(productVM.product);
-                    
+
                 }
                 else
                 {
-					_unitOfWork.Product.Update(productVM.product);
-				}
-               
+                    _unitOfWork.Product.Update(productVM.product);
+                }
+
                 _unitOfWork.Save();
                 TempData["success"] = " create product successfully";
                 return RedirectToAction("Index");
             }
-          
+
             return View(productVM);
         }
-      
+
         #region API CALLS
         [HttpGet]
         public IActionResult GetAll()
         {
             List<Product> products = _unitOfWork.Product.GetAll().ToList();
-            return Json(new {data= products});
+            return Json(new { data = products });
         }
         [HttpDelete]
         public IActionResult Delete(int? id)
         {
             var productTobeDeltete = _unitOfWork.Product.Get(u => u.Id == id);
-            if(productTobeDeltete == null)
+            if (productTobeDeltete == null)
             {
                 return Json(new { success = false, message = "error while delete" });
             }
@@ -120,7 +120,7 @@ namespace BulkyBookWeb.Areas.Admin.Controllers
             }
             _unitOfWork.Product.Remove(productTobeDeltete);
             _unitOfWork.Save();
-          
+
             return Json(new { success = true, message = " delete success" });
         }
         #endregion
