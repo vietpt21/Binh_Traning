@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\category_crud_01\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|solutionrelative:category_crud_01\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB99D54A-0F4A-452B-A345-740C2E27839E}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB99D54A-0F4A-452B-A345-740C2E27839E}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|solutionrelative:category_crud_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\areas\\admin\\views\\user\\rolemanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|solutionrelative:category_crud_01\\areas\\admin\\views\\user\\rolemanagment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FB99D54A-0F4A-452B-A345-740C2E27839E}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\bulky.dataaccess\\repository\\irepository\\irepositoryapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB99D54A-0F4A-452B-A345-740C2E27839E}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\irepositoryapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DB5C278-3515-4B5B-A2FF-9ACB1B0FA1DC}|Bulky.Models\\BulkyBook.Models.csproj|C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\bulky.models\\viewmodels\\rolemanagmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DB5C278-3515-4B5B-A2FF-9ACB1B0FA1DC}|Bulky.Models\\BulkyBook.Models.csproj|solutionrelative:bulky.models\\viewmodels\\rolemanagmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\category_crud_01\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|solutionrelative:category_crud_01\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\category_crud_01\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{24B7AF0A-0485-4DA3-8067-E7CAFEF68060}|Category_CRUD_01\\BulkyBookWeb.csproj|solutionrelative:category_crud_01\\wwwroot\\js\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{FB99D54A-0F4A-452B-A345-740C2E27839E}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\asp.net.core.mvc.net.8\\category_crud_01\\category_crud_01\\bulky.dataaccess\\repository\\repositoryapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB99D54A-0F4A-452B-A345-740C2E27839E}|Bulky.DataAccess\\BulkyBook.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repositoryapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,58 +30,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAACAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Program.cs",
+              "RelativeDocumentMoniker": "Category_CRUD_01\\Program.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Program.cs",
+              "RelativeToolTip": "Category_CRUD_01\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T07:54:34.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RoleManagment.cshtml",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
-              "RelativeDocumentMoniker": "Category_CRUD_01\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
-              "RelativeToolTip": "Category_CRUD_01\\Areas\\Admin\\Views\\User\\RoleManagment.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T02:09:00.098Z",
+              "WhenOpened": "2024-04-19T00:56:21.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RoleManagmentVM.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.Models\\ViewModels\\RoleManagmentVM.cs",
-              "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\RoleManagmentVM.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.Models\\ViewModels\\RoleManagmentVM.cs",
-              "RelativeToolTip": "Bulky.Models\\ViewModels\\RoleManagmentVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T01:22:43.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "user.js",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\js\\user.js",
-              "RelativeDocumentMoniker": "Category_CRUD_01\\wwwroot\\js\\user.js",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\wwwroot\\js\\user.js",
-              "RelativeToolTip": "Category_CRUD_01\\wwwroot\\js\\user.js",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-16T04:01:31.175Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Category_CRUD_01\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Category_CRUD_01\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T00:52:48.906Z",
               "EditorCaption": ""
             },
             {
@@ -92,9 +66,35 @@
               "RelativeDocumentMoniker": "Category_CRUD_01\\Areas\\Admin\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Category_CRUD_01\\Areas\\Admin\\Controllers\\UserController.cs",
               "RelativeToolTip": "Category_CRUD_01\\Areas\\Admin\\Controllers\\UserController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAQwDMAAABLAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAD4vzYAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T03:47:05.64Z",
+              "WhenOpened": "2024-04-18T09:32:51.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.DataAccess\\Repository\\RepositoryApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\RepositoryApplicationUser.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.DataAccess\\Repository\\RepositoryApplicationUser.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\RepositoryApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:28:35.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositoryApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.DataAccess\\Repository\\IRepository\\IRepositoryApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IRepositoryApplicationUser.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\ASP.NET.Core.MVC.NET.8\\Category_CRUD_01\\Category_CRUD_01\\Bulky.DataAccess\\Repository\\IRepository\\IRepositoryApplicationUser.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IRepositoryApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:28:30.647Z",
               "EditorCaption": ""
             }
           ]

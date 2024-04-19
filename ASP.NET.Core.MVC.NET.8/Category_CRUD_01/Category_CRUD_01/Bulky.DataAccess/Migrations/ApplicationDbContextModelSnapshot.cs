@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace BulkyBook.DataAcess.Migrations
+namespace BulkyBook.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     partial class ApplicationDbContextModelSnapshot : ModelSnapshot
@@ -265,10 +265,6 @@ namespace BulkyBook.DataAcess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ImageUrl")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<double>("ListPrice")
                         .HasColumnType("float");
 
@@ -299,7 +295,6 @@ namespace BulkyBook.DataAcess.Migrations
                             CategoryId = 1,
                             Description = "Nuoc ngot",
                             ISBN = "jsjsjsjfnfee",
-                            ImageUrl = "",
                             ListPrice = 99.0,
                             Price = 90.0,
                             Price100 = 80.0,
@@ -313,7 +308,6 @@ namespace BulkyBook.DataAcess.Migrations
                             CategoryId = 1,
                             Description = "nuoc uong",
                             ISBN = "jsjsjsjfnfee",
-                            ImageUrl = "",
                             ListPrice = 40.0,
                             Price = 20.0,
                             Price100 = 35.0,
@@ -327,7 +321,6 @@ namespace BulkyBook.DataAcess.Migrations
                             CategoryId = 1,
                             Description = "jjseeejs",
                             ISBN = "eess",
-                            ImageUrl = "",
                             ListPrice = 99.0,
                             Price = 90.0,
                             Price100 = 80.0,
@@ -341,7 +334,6 @@ namespace BulkyBook.DataAcess.Migrations
                             CategoryId = 2,
                             Description = "fffff",
                             ISBN = "dddff",
-                            ImageUrl = "",
                             ListPrice = 80.0,
                             Price = 60.0,
                             Price100 = 10.0,
@@ -355,7 +347,6 @@ namespace BulkyBook.DataAcess.Migrations
                             CategoryId = 2,
                             Description = "ssss",
                             ISBN = "ffff",
-                            ImageUrl = "",
                             ListPrice = 99.0,
                             Price = 90.0,
                             Price100 = 80.0,
@@ -369,13 +360,34 @@ namespace BulkyBook.DataAcess.Migrations
                             CategoryId = 3,
                             Description = "rrrs",
                             ISBN = "wwww",
-                            ImageUrl = "",
                             ListPrice = 99.0,
                             Price = 90.0,
                             Price100 = 80.0,
                             Price50 = 85.0,
                             Title = "Quan"
                         });
+                });
+
+            modelBuilder.Entity("BulkyBook.Models.ProductImage", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("ProductImages");
                 });
 
             modelBuilder.Entity("BulkyBook.Models.ShoppingCart", b =>
@@ -681,6 +693,17 @@ namespace BulkyBook.DataAcess.Migrations
                     b.Navigation("category");
                 });
 
+            modelBuilder.Entity("BulkyBook.Models.ProductImage", b =>
+                {
+                    b.HasOne("BulkyBook.Models.Product", "Product")
+                        .WithMany("ProductImages")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+                });
+
             modelBuilder.Entity("BulkyBook.Models.ShoppingCart", b =>
                 {
                     b.HasOne("BulkyBook.Models.ApplicationUser", "ApplicationUser")
@@ -758,6 +781,11 @@ namespace BulkyBook.DataAcess.Migrations
                         .HasForeignKey("CompanyId");
 
                     b.Navigation("Company");
+                });
+
+            modelBuilder.Entity("BulkyBook.Models.Product", b =>
+                {
+                    b.Navigation("ProductImages");
                 });
 #pragma warning restore 612, 618
         }

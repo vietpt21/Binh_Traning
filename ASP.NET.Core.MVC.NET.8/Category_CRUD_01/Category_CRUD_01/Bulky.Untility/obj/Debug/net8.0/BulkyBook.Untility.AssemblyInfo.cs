@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkyBook.Untility")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+006928ad66fc0be0ca367c6cee7ef9ed915c76f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f5be950ee6389cab212273859298a2ab20f3c9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkyBook.Untility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkyBook.Untility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

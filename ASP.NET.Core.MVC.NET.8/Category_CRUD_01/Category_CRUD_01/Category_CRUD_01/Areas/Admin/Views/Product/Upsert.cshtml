@@ -13,7 +13,7 @@
 					<div class="border p-3 mt-4" >
 				    	@* <div asp-validation-summary="All"></div> *@
 						<input asp-for="product.Id" hidden />
-						<input asp-for="product.ImageUrl" hidden />
+						@* <input asp-for="product.ImageUrl" hidden /> *@
 						<div class="mb-3">
 							<label asp-for="product.Title"></label>
 							<input asp-for="product.Title" class="form-control" />
@@ -54,9 +54,9 @@
 							<span asp-validation-for="product.Price100" class="text-danger"></span>
 						</div>
 						<div class="mb-3">
-							<label asp-for="product.ImageUrl"></label>
-							<input type="file" name="file" class="form-control" />
-							<span asp-validation-for="product.ImageUrl" class="text-danger"></span>
+							<label asp-for="product.ProductImages"></label>
+							<input type="file" name="files" class="form-control" />
+							<span asp-validation-for="product.ProductImages" class="text-danger"></span>
 						</div>
 						<div class="mb-3">
 							<label asp-for="product.CategoryId"></label>
@@ -80,13 +80,26 @@
 		  				</div>
 				</div>
 				<div class="col-2">
-					
-						<img src= "@Model.product.ImageUrl" width="100%"/> 
+					@if(Model.product.ProductImages != null)
+					{
+						foreach(var image in Model.product.ProductImages)
+						{
+						    <div class="text-center p-2 m-2">
+								<img src="@image.ImageUrl" width="100%" />
+						    <a asp-action="DeleteImage" asp-route-imageId="@image.Id" class="btn btn-danger">Delete</a>
+							</div>
+							
+						}
+					}
+		
 				</div>
 			</div>
 		</form>
 	
 </div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
 @section Scripts{
 	<script>
 		tinymce.init({
@@ -95,6 +108,7 @@
 			toolbar_mode:'undo redo'|'blocks fontfamily font size'|'floating',
 		});
 	</script>
+	
 }
 	@{
 		<partial name="_ValidationScriptsPartial"/>
