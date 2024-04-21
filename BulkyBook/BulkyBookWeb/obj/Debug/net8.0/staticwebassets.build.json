@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vZIr0IR8LQ0qPpXsyBtVtHsS6Vze4Y6umwkla7u9lrE=",
+  "Hash": "CgEsMpnNyFSnzaXtv1qwPmo9HmAscRDqSiNvmGfxQs8=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\BootSwatchTheme.css",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "css/BootSwatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BootSwatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\css\\site.css",
