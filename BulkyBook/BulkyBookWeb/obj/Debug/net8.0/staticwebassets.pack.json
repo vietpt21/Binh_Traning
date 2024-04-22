@@ -17,6 +17,34 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\02d40d9a-bead-4463-a5c3-7d13c2b2cd6d.png",
+      "PackagePath": "staticwebassets\\images\\products\\02d40d9a-bead-4463-a5c3-7d13c2b2cd6d.png"
+    },
+    {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\41db588d-180a-4c70-b11d-500ef0a69091.png",
+      "PackagePath": "staticwebassets\\images\\products\\41db588d-180a-4c70-b11d-500ef0a69091.png"
+    },
+    {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\4a0dbe84-ebd1-4a7e-ac53-0be888407170.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4a0dbe84-ebd1-4a7e-ac53-0be888407170.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\505118be-5dcd-4ca7-82f5-34fd46f804c8.png",
+      "PackagePath": "staticwebassets\\images\\products\\505118be-5dcd-4ca7-82f5-34fd46f804c8.png"
+    },
+    {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\948cae42-9bfd-4dbd-a626-f398ef6f7685.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\948cae42-9bfd-4dbd-a626-f398ef6f7685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\9b4b84c7-ed45-4d15-bbab-6af125c57476.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9b4b84c7-ed45-4d15-bbab-6af125c57476.jpg"
+    },
+    {
+      "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
