@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ynsbiNacwLNsVPKLXWMkDzaOI8LSqdDVwVnRQSJGeKE=",
+  "Hash": "iVG/nLALhgurE1XG0OJFgDKo/hq7dGj9qqRSbVT9Bvw=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1364,6 +1364,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\9b4b84c7-ed45-4d15-bbab-6af125c57476.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\company.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
