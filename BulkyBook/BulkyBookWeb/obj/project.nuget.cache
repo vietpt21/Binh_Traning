@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1rcDNnUFxnKV4m31hpQhMZr2PArYc8bpd6DKPOs6h/ozUvcwLnGi8XUsQBoWewozcQCa4wMPC8o/Mg/HtV8qRA==",
+  "dgSpecHash": "382JhakKczUY/7dM/5dZTY1W5zgsZvxr7kn6rcxFhLLnpg/T2CDqgJaD2i30EZOsFK0/wrJ3aR80/n6v9zhdiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "expectedPackageFiles": [
@@ -192,6 +192,7 @@
     "C:\\Users\\VIETPT\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\VIETPT\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\VIETPT\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\VIETPT\\.nuget\\packages\\stripe.net\\44.3.0\\stripe.net.44.3.0.nupkg.sha512",
     "C:\\Users\\VIETPT\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\VIETPT\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\VIETPT\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
