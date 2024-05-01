@@ -163,7 +163,7 @@ namespace BulkyBookWeb.Areas.Customer.Controllers
 	    {
 			OrderHeader orderHeader = _unitOfWork.OrderHeader.Get(x => x.Id == id, includeProperties: "ApplicationUser");
 			if(orderHeader.PaymentStatus != SD.PaymentStatusDelayedPayment)
-			{//customer
+			{
 				var service = new SessionService();
 				Session session = service.Get(orderHeader.SessionId);
 				if(session.Status.ToLower() == "paid")
