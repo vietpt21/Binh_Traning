@@ -1,0 +1,13 @@
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\bin\Debug\net8.0\BulkyBook.Models.deps.json
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\bin\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\bin\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.sourcelink.json
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.dll
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\refint\BulkyBook.Models.dll
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\BulkyBook.Models.pdb
+C:\Users\VIETPT\Desktop\Binh_Traning\BulkyBook\BulkyBook.Models\obj\Debug\net8.0\ref\BulkyBook.Models.dll
