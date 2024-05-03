@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\repositories\\regionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\repositories\\regionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\repositories\\walkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\repositories\\walkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\data\\nzwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|c:\\users\\vietpt\\desktop\\binh_traning\\nzwalks-solution\\nzwalks\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6908043F-3EEA-4E1B-88C7-D6D94C7FF088}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,131 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Repositories\\RegionRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Repositories\\RegionRepository.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Repositories\\RegionRepository.cs",
-              "RelativeToolTip": "NZWalks\\Repositories\\RegionRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCYAAAAMAAAA",
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks\\Controllers\\WalksController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwDUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:20:19.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRegionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Repositories\\IRegionRepository.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Repositories\\IRegionRepository.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Repositories\\IRegionRepository.cs",
-              "RelativeToolTip": "NZWalks\\Repositories\\IRegionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:19:37.769Z",
+              "WhenOpened": "2024-05-03T08:18:46.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegionsController.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Controllers\\RegionsController.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Controllers\\RegionsController.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Controllers\\RegionsController.cs",
-              "RelativeToolTip": "NZWalks\\Controllers\\RegionsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Title": "WalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Repositories\\WalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Repositories\\WalkRepository.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Repositories\\WalkRepository.cs",
+              "RelativeToolTip": "NZWalks\\Repositories\\WalkRepository.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwFkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:16:56.03Z",
+              "WhenOpened": "2024-05-03T08:09:25.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Program.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Program.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Program.cs",
-              "RelativeToolTip": "NZWalks\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "NZWalks\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:12:10.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Image.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Models\\Domain\\Image.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\Domain\\Image.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Models\\Domain\\Image.cs",
-              "RelativeToolTip": "NZWalks\\Models\\Domain\\Image.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:11:29.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Walk.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Models\\Domain\\Walk.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\Domain\\Walk.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Models\\Domain\\Walk.cs",
-              "RelativeToolTip": "NZWalks\\Models\\Domain\\Walk.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:10:37.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Region.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Models\\Domain\\Region.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\Domain\\Region.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Models\\Domain\\Region.cs",
-              "RelativeToolTip": "NZWalks\\Models\\Domain\\Region.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:10:07.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Difficulty.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Models\\Domain\\Difficulty.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Models\\Domain\\Difficulty.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Models\\Domain\\Difficulty.cs",
-              "RelativeToolTip": "NZWalks\\Models\\Domain\\Difficulty.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:09:36.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NZWalksDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Data\\NZWalksDbContext.cs",
-              "RelativeDocumentMoniker": "NZWalks\\Data\\NZWalksDbContext.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\Data\\NZWalksDbContext.cs",
-              "RelativeToolTip": "NZWalks\\Data\\NZWalksDbContext.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAmwGEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:02:46.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\appsettings.json",
-              "RelativeDocumentMoniker": "NZWalks\\appsettings.json",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\appsettings.json",
-              "RelativeToolTip": "NZWalks\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-01T14:01:29.213Z",
+              "WhenOpened": "2024-05-03T08:09:03.579Z",
               "EditorCaption": ""
             }
           ]

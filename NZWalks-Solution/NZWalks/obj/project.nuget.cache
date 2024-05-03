@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8AqfSmEMDFFLxC9MYh3V3WwxKZ4sS90cEhlU51yygHjBLuUsXVtNUDMsAImfDMJJKf66d/m81Tp+RsQdd6/s+A==",
+  "dgSpecHash": "HxdANAjL2/Hc+VeTkiTZ3nKYU431/FdzQ3rD/GHB64vR3LAfGE4qvNaIlbZIGWmKEIaP0PnnJzuoZ708Q8i6Hg==",
   "success": true,
   "projectFilePath": "C:\\Users\\VIETPT\\Desktop\\Binh_Traning\\NZWalks-Solution\\NZWalks\\NZWalks.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\VIETPT\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\VIETPT\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\VIETPT\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\VIETPT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -135,3 +135,4 @@ C:\Users\VIETPT\Desktop\Binh_Traning\NZWalks-Solution\NZWalks\obj\Debug\net8.0\r
 C:\Users\VIETPT\Desktop\Binh_Traning\NZWalks-Solution\NZWalks\obj\Debug\net8.0\NZWalks.pdb
 C:\Users\VIETPT\Desktop\Binh_Traning\NZWalks-Solution\NZWalks\obj\Debug\net8.0\NZWalks.genruntimeconfig.cache
 C:\Users\VIETPT\Desktop\Binh_Traning\NZWalks-Solution\NZWalks\obj\Debug\net8.0\ref\NZWalks.dll
+C:\Users\VIETPT\Desktop\Binh_Traning\NZWalks-Solution\NZWalks\bin\Debug\net8.0\AutoMapper.dll
